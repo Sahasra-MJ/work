@@ -1,5 +1,5 @@
-Hello everyone repo for this git course
+# Hello everyone repo for this git course
 
-this is one of my project in github
+## this is one of my project in github
 
-Thank you
+### Thank you
